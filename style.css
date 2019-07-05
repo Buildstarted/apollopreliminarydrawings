@@ -16,11 +16,11 @@
             font-size: 1rem;
             font-weight: 400;
             line-height: 1.5;
-            /*color: #60656a;*/
+            color: #60656a;
 			color: #fff;
             text-align: left;
             background-color: #323b44;
-			background-image: url(images/background-apollo.jpg);
+			/*background-image: url(images/background-apollo.jpg);*/
         }
 
         h1 {
